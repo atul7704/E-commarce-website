@@ -118,5 +118,5 @@ contactus.addEventListener("click",()=>{
 const morebutton = document.querySelector('.morebutton');
 
 morebutton.addEventListener('click', () => {
-    window.location.href = 'https://embedsocial.com/blog/positive-reviews-examples/'; // Replace with your desired URL
+    window.location.href = 'https://embedsocial.com/blog/positive-reviews-examples/'; 
 });
